@@ -2,7 +2,7 @@
  * 
  * @author Juan José Salvador
  */
-public class Jlasni {
+public class JLasni {
     
     public void roto() {
         System.out.println("Hola me he roto :D");
