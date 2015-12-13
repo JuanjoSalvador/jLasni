@@ -2,7 +2,7 @@
  * 
  * @author Juan José Salvador
  */
-public class mensajes {
+public class Jlasni {
     
     public void roto() {
         System.out.println("Hola me he roto :D");
