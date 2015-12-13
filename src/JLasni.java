@@ -4,6 +4,11 @@
  */
 public class JLasni {
     
+    /**
+     * 
+     * Mensajes
+     */
+    
     public void roto() {
         System.out.println("Hola me he roto :D");
     }
@@ -25,4 +30,9 @@ public class JLasni {
     }
     
     // Añade más frases
+    
+    /**
+     *
+     * Excepciones
+     */
 }
