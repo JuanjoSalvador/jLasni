@@ -45,7 +45,7 @@ public class JLasni {
     }
 
     public void aPastar() {
-      System.out.println("A PASTAR")
+      System.out.println("A PASTAR");
     }
 
     // Añade más frases
