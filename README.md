@@ -5,7 +5,7 @@ Librería de excepciones y mensajes de error para Java
 * Juanjo Salvador (@Linuxneitor)
 * Victor Suárez (@zerasul)
 * Jesús Marín (@_jesusmg)
-
+* Miguel Ángel López (@miguelangellv)
 #### Para Lasni
 
 Te queremos <3
