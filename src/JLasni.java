@@ -47,6 +47,10 @@ public class JLasni {
     public void aPastar() {
       System.out.println("A PASTAR");
     }
+    
+    public void croqueta() {
+        System.out.println("Me he roto *huye haciendo la croqueta*");
+    }
 
     // Añade más frases
 
