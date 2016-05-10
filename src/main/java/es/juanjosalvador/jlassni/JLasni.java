@@ -1,6 +1,8 @@
+package es.juanjosalvador.jlassni;
+
 /**
  *
- * @author Juan José Salvador
+ * @author Juan Jos�� Salvador
  */
 
 import java.util.Random;
@@ -28,7 +30,7 @@ public class JLasni {
     }
 
     public void guapisimo() {
-        System.out.println("Guapísimo xDDDDDDDDDDDDD");
+        System.out.println("Guapisimo xDDDDDDDDDDDDD");
     }
 
     public void felicidad() {
@@ -52,10 +54,5 @@ public class JLasni {
         System.out.println("Me he roto *huye haciendo la croqueta*");
     }
 
-    // Añade más frases
-
-    /**
-     *
-     * Excepciones
-     */
+    
 }
