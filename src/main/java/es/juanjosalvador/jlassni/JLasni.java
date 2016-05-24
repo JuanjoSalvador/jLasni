@@ -54,5 +54,7 @@ public class JLasni {
         System.out.println("Me he roto *huye haciendo la croqueta*");
     }
 
-    
+    public void hipazo() {
+        System.out.println("HIPAZO.");
+    }
 }
