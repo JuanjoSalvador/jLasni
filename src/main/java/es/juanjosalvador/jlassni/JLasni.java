@@ -57,8 +57,4 @@ public class JLasni {
     public void hipazo() {
         System.out.println("HIPAZO.");
     }
-    
-    public void otp() {
-        System.out.println("DobleJota OTP.");
-    }
 }
