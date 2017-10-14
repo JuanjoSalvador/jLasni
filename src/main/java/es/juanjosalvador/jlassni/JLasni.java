@@ -2,7 +2,7 @@ package es.juanjosalvador.jlassni;
 
 /**
  *
- * @author Juan Jos�� Salvador
+ * @author Juan José Salvador
  */
 
 import java.util.Random;
@@ -56,5 +56,9 @@ public class JLasni {
 
     public void hipazo() {
         System.out.println("HIPAZO.");
+    }
+    
+    public void otp() {
+        System.out.println("DobleJota OTP.");
     }
 }
