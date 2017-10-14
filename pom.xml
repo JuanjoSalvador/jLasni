@@ -1,16 +1,30 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  <groupId>es.juanjosalvador</groupId>
-  <artifactId>jlasni</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <name>JLasni</name>
-  <description>Libreria de Excepciones</description>
-  <dependencies>
-  	<dependency>
-	<groupId>junit</groupId>
-	<artifactId>junit</artifactId>
-	<version>4.11</version>
-	<scope>test</scope>
-</dependency>
-  </dependencies>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>es.juanjosalvador</groupId>
+	<artifactId>jlasni</artifactId>
+	<version>0.0.3-SNAPSHOT</version>
+	<name>es.juanjosalvador:JLasni</name>
+	<description>Libreria de manejo de Excepciones. JLasni</description>
+	<url>https://github.com/JuanjoSalvador/jLasni</url>
+	<developers>
+		<developer>
+			<name>JuanjoSalvador</name>
+			<email>contact2007@idrsolutions.com</email>
+
+		</developer>
+		<developer>
+			<name>Victor Suarez</name>
+			<email>contact2007@idrsolutions.com</email>
+
+		</developer>
+	</developers>
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.11</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
 </project>
