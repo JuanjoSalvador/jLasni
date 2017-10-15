@@ -61,4 +61,13 @@ public class JlasniTest {
 		jlasni.croqueta();
 	}
 
+	@Test
+	public void testOtp(){
+		jlasni.otp();
+	}
+	
+	@Test
+	public void testHipazo(){
+		jlasni.hipazo();
+	}
 }
