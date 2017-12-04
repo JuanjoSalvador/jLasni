@@ -3,19 +3,26 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>es.juanjosalvador</groupId>
 	<artifactId>jlasni</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.1.0-SNAPSHOT</version>
 	<name>es.juanjosalvador:JLasni</name>
 	<description>Libreria de manejo de Excepciones. JLasni</description>
 	<url>https://github.com/JuanjoSalvador/jLasni</url>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+	<scm>
+		<connection>scm:git:https://github.com/JuanjoSalvador/jLasni.git</connection>
+		<url>https://github.com/JuanjoSalvador/jLasni</url>
+	</scm>
 	<developers>
 		<developer>
 			<name>JuanjoSalvador</name>
-			<email>contact2007@idrsolutions.com</email>
+			<email>test@example.com</email>
 
 		</developer>
 		<developer>
 			<name>Victor Suarez</name>
-			<email>contact2007@idrsolutions.com</email>
+			<email>suarez.garcia.victor@gmail.com</email>
 
 		</developer>
 	</developers>
