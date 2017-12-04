@@ -26,7 +26,7 @@ public class JLasni {
     }
 
     public String botonaco() {
-        return "Aquí­ va un BOTONACO";
+        return "AquÃ­ va un BOTONACO";
     }
 
     public String guapisimo() {

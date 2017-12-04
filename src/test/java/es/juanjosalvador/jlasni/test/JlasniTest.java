@@ -22,7 +22,7 @@ public class JlasniTest {
 		mapaRespuestas= new HashMap<String, String>();
 		mapaRespuestas.put("ROTO", "Hola me he roto :D");
 		mapaRespuestas.put("PECHOTE", "Me pica un pechote (????)");
-		mapaRespuestas.put("BOTONACO", "Aquí ­ va un BOTONACO");
+		mapaRespuestas.put("BOTONACO", "AquÃ­ va un BOTONACO");
 		mapaRespuestas.put("GUAPISIMO", "Guapisimo xDDDDDDDDDDDDD");
 		mapaRespuestas.put("APASTAR", "A PASTAR");
 		mapaRespuestas.put("CROQUETA", "Me he roto *huye haciendo la croqueta*");
