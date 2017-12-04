@@ -13,27 +13,27 @@ public class JLasni {
      * Mensajes
      */
 
-    public void roto() {
-        System.out.println("Hola me he roto :D");
+    public String roto() {
+        return "Hola me he roto :D";
     }
 
-    public void pechote() {
-        System.out.println("Me pica un pechote (????)");
+    public String pechote() {
+       return "Me pica un pechote (????)";
     }
 
-    public void meIgnora(String nombre) {
-        System.out.println(nombre + " me ignora (????)");
+    public String meIgnora(String nombre) {
+       return  String.format("%s me ignora (????)", nombre);
     }
 
-    public void botonaco() {
-        System.out.println("Aquí va un BOTONACO");
+    public String botonaco() {
+        return "Aquí va un BOTONACO";
     }
 
-    public void guapisimo() {
-        System.out.println("Guapisimo xDDDDDDDDDDDDD");
+    public String guapisimo() {
+        return "Guapisimo xDDDDDDDDDDDDD";
     }
 
-    public void felicidad() {
+    public String felicidad() {
         String msg = "asdf";
         Random random = new Random();
         int n = random.nextInt(10) + 5;
@@ -43,22 +43,22 @@ public class JLasni {
           msg += (char) ('a' + random.nextInt(nLetters));
         }
 
-        System.out.println(msg);
+        return msg;
     }
 
-    public void aPastar() {
-      System.out.println("A PASTAR");
+    public String aPastar() {
+      return  "A PASTAR";
     }
     
-    public void croqueta() {
-        System.out.println("Me he roto *huye haciendo la croqueta*");
+    public String croqueta() {
+        return "Me he roto *huye haciendo la croqueta*";
     }
 
-    public void hipazo() {
-        System.out.println("HIPAZO.");
+    public String hipazo() {
+        return "HIPAZO.";
     }
     
-    public void otp() {
-        System.out.println("DobleJota OTP.");
+    public String otp() {
+       return "DobleJota OTP.";
     }
 }
