@@ -61,4 +61,8 @@ public class JLasni {
     public String otp() {
        return "DobleJota OTP.";
     }
+    
+    public String cosaQueTapa() {
+        return "Cosa que tapa";
+    }
 }
